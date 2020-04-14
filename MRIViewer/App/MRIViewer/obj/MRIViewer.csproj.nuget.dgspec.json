@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\MRIViewer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\MRIViewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\MRIViewer.csproj",
+        "projectName": "MRIViewer",
+        "projectPath": "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\MRIViewer.csproj",
+        "projectJsonPath": "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\project.json",
+        "packagesPath": "C:\\Users\\jodys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jodys\\Projects\\MRIViewer\\App\\MRIViewer\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\jodys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jodys\\source\\NugetRepository": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.4.4, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
