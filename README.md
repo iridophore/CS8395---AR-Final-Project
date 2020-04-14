@@ -44,7 +44,9 @@ Anonymized MRI brain scans were acquired from another laboratory at Vanderbilt U
 
                                                  2D image slices of MRI data
 
-![human saggital image](doc/graphics/Konrad_sag.png) ![human coronal image](doc/graphics/Konrad_cor.png) ![human axial image](doc/graphics/Konrad_axl.png) 
+![human saggital image](doc/graphics/Konrad_sag.png) 
+![human coronal image](doc/graphics/Konrad_cor.png) 
+![human axial image](doc/graphics/Konrad_axl.png) 
 
 
 ![chimp saggital image](doc/graphics/Male_Iyk_sag.png) 
@@ -71,12 +73,12 @@ An occlusion portal was added in unity to turn off the surrogate graphics when t
 ![Human coronal slice](doc/graphics/20200414_144631_HoloLens.jpg)
 
                               Chimpanzee saggital slice view in MRIViewer (with and without surrogate)
-![Chimp saggital slice](doc/graphics/20200414_144631_HoloLens.jpg)![Chimp saggital slice](doc/graphics/20200414_155957_HoloLens.jpg)
+![Chimp saggital slice](doc/graphics/20200414_160102_HoloLens.jpg)![Chimp saggital slice](doc/graphics/20200414_155957_HoloLens.jpg)
 
 
 
                      Volume rendered skin ray trace with surrogate brain polygonal model in Unity
-![Unity volume rendering menu](doc/graphics/20200414_160102_HoloLens.jpg)
+![Unity volume rendering](doc/graphics/vol_render.png)
 
 
 # Acknowledgments
