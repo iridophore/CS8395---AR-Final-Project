@@ -65,8 +65,16 @@ A cursor keyed by the viewers gaze direction was added using scripts borrowed fr
 
 An occlusion portal was added in unity to turn off the surrogate graphics when the 2D image slices are being viewed.  This was a result of only object level culling in the graphics.  For future work true cross-sectional slices would be much better. However the actual images should still be displayed versus render derived ones.
 
+                              Human coronal slice view from within MRIViewer
+![Human coronal slice](doc/graphics/20200414_144631_HoloLens.jpg)
+
+                              Chimpanzee saggital slice view in MRIViewer (with and without surrogate)
+![Chimp saggital slice](doc/graphics/20200414_144631_HoloLens.jpg)![Chimp saggital slice](doc/graphics/20200414_155957_HoloLens.jpg)
+
+
+
                      Volume rendered skin ray trace with surrogate brain polygonal model in Unity
-![Unity volume rendering menu](doc/graphics/vol_render.png)
+![Unity volume rendering menu](doc/graphics/20200414_160102_HoloLens.jpg)
 
 
 # Acknowledgments
