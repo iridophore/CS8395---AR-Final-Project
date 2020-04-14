@@ -45,6 +45,8 @@ Anonymized MRI brain scans were acquired from another laboratory at Vanderbilt U
                                                  2D image slices of MRI data
 
 ![human saggital image](doc/graphics/Konrad_sag.png) ![human coronal image](doc/graphics/Konrad_cor.png) ![human axial image](doc/graphics/Konrad_axl.png) 
+
+
 ![chimp saggital image](doc/graphics/Male_Iyk_sag.png) 
 ![chimp coronal image](doc/graphics/Male_Iyk_cor.png) 
 ![chimp axial image](doc/graphics/Male_Iyk_axl.png)
